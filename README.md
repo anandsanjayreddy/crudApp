@@ -10,6 +10,7 @@ Steps to run
 -Take the war from target directory 
 
 -Drop it in tomcat(7 or 8) webapps
+hello sanjay
 
 
 -Access the app at
